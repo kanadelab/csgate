@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSgate", "CSgate\CSgate.vcxproj", "{EB94B8E0-D620-4151-9C7E-B8FB75569972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Debug|Win32.Build.0 = Debug|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Release|Any CPU.ActiveCfg = Release|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Release|Win32.ActiveCfg = Release|Win32
+		{EB94B8E0-D620-4151-9C7E-B8FB75569972}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

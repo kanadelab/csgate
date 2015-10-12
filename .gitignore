@@ -1,0 +1,7 @@
+*.opensdf
+*.sdf
+CSgate/Debug/cl.command.1.tlog
+CSgate/Debug/
+CSgate/Release/
+Debug/
+Release/
